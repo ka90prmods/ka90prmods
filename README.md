@@ -1,4 +1,4 @@
 - 👋 Hi, I’m ka90pr
-- 👀 I’m working on: lua, python and html
+- 👀 I’m working on: lua, javascript
 - 🌱 My favorite is lua
 - 📫 Im making moblie mods
